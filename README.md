@@ -1,6 +1,7 @@
 # Processing Sketches
 
-![](./readme_p_logo.svg)
+<img srcset="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" width="100"  style="width: 100px; margin: 0 auto;"/>
+
 A collection of original Processing sketches i made
 
 ## Get started with Processing:
@@ -13,4 +14,7 @@ A collection of original Processing sketches i made
 git clone https://github.com/ZOASR/processing-sketches.git
 ```
 
-![](./readme_content.svg)
+<img src="images/flock.png" style="border-radius: 20px" />
+<img src="images/mandelbrot.png" style="border-radius: 20px" />
+<img src="images/sandpiles.png" style="border-radius: 20px"/>
+<img src="images/rose.png" style="border-radius: 20px"/>
