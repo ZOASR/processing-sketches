@@ -13,7 +13,7 @@ A collection of original Processing sketches i made
 -   DOwnload Processing from [here](https://processing.org/download), then clone the repo to run the sketches:
 
 ```bash
-git clone
+git clone https://github.com/ZOASR/processing-sketches.git
 ```
 
 <div style="width: 100%; margin: auto; display: flex; flex-direction: column; gap: 2em;">
