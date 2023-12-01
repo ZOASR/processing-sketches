@@ -10,7 +10,7 @@ A collection of original Processing sketches i made
 
 -   Home Page: https://processing.org/
 -   Reference: https://processing.org/reference
--   DOwnload Processing from [here](https://processing.org/download), then clone the repo to run the sketches:
+-   Download Processing from [here](https://processing.org/download), then clone the repo to run the sketches:
 
 ```bash
 git clone https://github.com/ZOASR/processing-sketches.git
