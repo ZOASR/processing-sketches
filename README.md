@@ -1,6 +1,6 @@
 # Processing Sketches
 
-<img srcset="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" width="100"  style="width: 100px; margin: 0 auto;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" style="width: 100px; margin: 0 auto;"/>
 
 A collection of original Processing sketches i made
 
